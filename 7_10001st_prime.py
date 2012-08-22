@@ -1,4 +1,4 @@
-#"""find the 10001st prime by makto"""
+"""find the 10001st prime by makto"""
 from math import sqrt
 
 def is_prime(n):
