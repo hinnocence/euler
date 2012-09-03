@@ -27,5 +27,5 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 #add by zhaotian 
-.swp 
-.swo
+*.swp 
+*.swo
